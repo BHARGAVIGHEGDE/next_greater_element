@@ -1,4 +1,4 @@
-/* given an array arr[] of size N having distinct elements the task is to find the next greater elements ,the task is to find the next greater elements for each element of the array in order of their appearance in the array.
+/* given an array arr[] of size N having distinct elements ,the task is to find the next greater elements  for each element of the array in order of their appearance in the array.
 if these don't exist greater of current element,then next greater element for current element is -1.
 for example,next greater of last element is always -1
 
